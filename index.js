@@ -3,17 +3,19 @@ let person = {
     age: 0
 };
 
-function celebrateBirthday(person) = {
+function celebrateBirthday(person) {
   person.age = person.age + 1;
   return person;
 }
 
+// create a person object that has an age of 0
 
 
 
 //should create a person object that has an age of 0 (zero)
 
 //should create a function named celebrateBirthday that takes a person, updates their age by one year and returns the person
+
 
 
 
